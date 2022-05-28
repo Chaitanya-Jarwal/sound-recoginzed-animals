@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
+#footer{
+    text-align: center;
+    background-color: lightgrey;
+    height: 60px;
+    width: 100%;
+    font-weight: bold;
+    font-size: large;
+}
+#head{
+    background-color: aquamarine;
+}
